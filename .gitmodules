@@ -1,0 +1,24 @@
+[submodule "MyParser"]
+	path = MyParser
+	url = https://github.com/amitc9der/MyParser.git
+[submodule "MyOwnFrontendFrameWork"]
+	path = MyOwnFrontendFrameWork
+	url = https://github.com/amitc9der/MyOwnFrontendFrameWork.git
+[submodule "angular"]
+	path = angular
+	url = https://github.com/amitc9der/angular.git
+[submodule "Rust"]
+	path = Rust
+	url = https://github.com/amitc9der/Rust.git
+[submodule "Flutter"]
+	path = Flutter
+	url = https://github.com/amitc9der/Flutter.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/amitc9der/Python.git
+[submodule "D3"]
+	path = D3
+	url = https://github.com/amitc9der/D3.git
+[submodule "tcp"]
+	path = tcp
+	url = https://github.com/amitc9der/tcp.git
